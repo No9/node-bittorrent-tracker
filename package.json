@@ -1,6 +1,17 @@
 {
   "name": "node-bittorrent-tracker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node-bittorrent-tracker",
-  "main": "lib/tracker/index.js"
+  "homepage" : "http://github.com/WizKid/node-bittorrent-tracker",
+  "author": {
+    "name": "Emil Hesslow"
+  },
+  "main": "lib/tracker/index.js",
+  "repository" : {
+      "type" : "git",
+       "url" : "http://github.com/WizKid/node-bittorrent-tracker.git"
+  },
+  "dependencies": {
+      "bencoding": ">= 0.0.1"
+  }
 }
