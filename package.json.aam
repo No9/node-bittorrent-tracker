@@ -1,6 +1,6 @@
 {
   "name": "aam-node-bittorrent-tracker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node-bittorrent-tracker",
   "homepage" : "http://github.com/WizKid/node-bittorrent-tracker",
   "author": {
